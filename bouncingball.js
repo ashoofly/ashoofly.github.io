@@ -4,11 +4,11 @@ var radius=20;
 
 
 /* starting positions of balls: [x, y, dx, dy] */
-var grey = [20, 100, 2, 2];
-var red = [window.innerWidth-20, 300, 2, 2];
-var orange = [window.innerWidth-20, window.innerHeight-20, 2, 2];
-var green = [100, window.innerHeight-20, 2, 2];
-var purple = [window.innerWidth/2, window.innerHeight/2, 2, 2];
+var grey = [20, 100, 2.3, 1.8];
+var red = [window.innerWidth-100, 300, 1.8, 2.3];
+var orange = [window.innerWidth-20, window.innerHeight-100, 1.7, 0.5];
+var green = [100, window.innerHeight-20, 0.8, 2.0];
+var purple = [window.innerWidth/2, window.innerHeight/2, 1.7, 0.8];
 var yellow = [20, window.innerHeight/2, 2, 2];
 
 
