@@ -1,0 +1,53 @@
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.debug {
+  border: 1px solid black;
+}
+
+.profile {
+  width:150px;
+}
+
+.col-lg-6 > div {
+    align-items:center;
+    display: flex;
+    margin-left:-20;
+}
+
+.right-caption {
+  text-align: left;
+  font-size:11pt;
+}
+
+.card {
+  margin-bottom: 60px;
+}
+
+.thumbnail {
+  width: 140px;
+}
+
+p {
+  font-size: 13pt;
+  color: gray;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+footer > p{
+  font-size:10pt;
+}
+
+.subtitle {
+  font-size:11pt;
+}
+
+.img-responsive {
+    margin: auto;
+    vertical-align: middle;
+}
